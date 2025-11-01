@@ -1,4 +1,4 @@
-# RL Task Submission: Variance-Stabilized Dropout Implementation
+# RL Task Submission: Variance-Stabilized Dropout RL Environment
 
 Author: Eva Paunova, AI Research Scientist   
 **Date:** October 31, 2025  
