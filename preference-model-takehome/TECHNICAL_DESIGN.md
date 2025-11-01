@@ -270,7 +270,6 @@ except subprocess.TimeoutExpired:
 |----------|---------|--------|
 | README.md | Full design rationale | 9.5 KB |
 | QUICKSTART.md | Integration guide | 3 KB |
-| SUBMISSION_SUMMARY.md | Quick overview | 2 KB |
 | CHECKLIST.md | Requirements verification | 3.5 KB |
 | INDEX.md | Navigation | 4 KB |
 | This document | Technical deep-dive | 15+ KB |
@@ -404,10 +403,7 @@ preference-model-takehome/
 ├── README.md                      # Full documentation (9.5 KB)
 ├── TECHNICAL_DESIGN.md            # This document (15+ KB)
 ├── QUICKSTART.md                  # Integration guide (3 KB)
-├── SUBMISSION_SUMMARY.md          # Quick overview (2 KB)
 ├── CHECKLIST.md                   # Requirements check (3.5 KB)
-├── SUBMISSION_MESSAGE.md          # Email template (2.5 KB)
-├── DEMO_SCRIPT.md                 # Presentation guide (3.5 KB)
 ├── INDEX.md                       # Navigation (4 KB)
 └── requirements.txt               # Dependencies (271 B)
 ```
