@@ -4,7 +4,7 @@
 
 **One-line pitch:** Debug a subtle mathematical error in a dropout implementation based on a research paper concept.
 
-### Why This Task Excels
+
 
 | Requirement | How Task Satisfies It | Evidence |
 |-------------|----------------------|----------|
