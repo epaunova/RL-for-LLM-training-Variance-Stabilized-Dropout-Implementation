@@ -65,13 +65,6 @@
   - Well-commented
   - Demo included
 
-### From Pro Tips
-
-- [x] **Scientific concept** - Variance stabilization ✓
-- [x] **Tool usage** - Code execution, numpy ✓
-- [x] **Coherent** - Single clear objective ✓
-- [x] **Balanced difficulty** - 10-40% calibrated ✓
-- [x] **Clear grading** - Automated, precise ✓
 
 ## Files Included
 
