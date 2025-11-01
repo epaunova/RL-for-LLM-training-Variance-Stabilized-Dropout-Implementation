@@ -172,6 +172,26 @@ result = grade_solution(workspace)
 # RL signal
 reward = 1.0 if result['passed'] else 0.0
 ```
+## Integration Notes
+
+This task follows the standard RL environment pattern and can be easily 
+integrated into frameworks like hello-py:
+```python
+# Example integration
+from variance_dropout_task import setup_task_files, grade_solution
+
+workspace = Path("workdir")
+setup_task_files(workspace)
+# ... agent attempts task ...
+result = grade_solution(workspace)
+reward = 1.0 if result['passed'] else 0.0
+```
+
+For production integration, the task provides:
+- Clear state initialization (setup_task_files)
+- Standard grading interface (grade_solution)
+- Detailed feedback (result['feedback'])
+```
 
 ## Difficulty Calibration & Expected Pass Rates
 
