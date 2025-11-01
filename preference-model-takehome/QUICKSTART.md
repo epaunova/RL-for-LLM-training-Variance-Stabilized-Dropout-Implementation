@@ -25,11 +25,11 @@ You'll see:
 Testing BUGGY implementation...
 Result: FAILED
 Feedback: Tests failed. Check the output for details.
-  Variance ratio: 1.43 (target: 1.0) - 43% error ❌
+  Variance ratio: 1.43 (target: 1.0) - 43% error 
 
 Testing CORRECT implementation...
-Result: PASSED ✅
-  Variance ratio: 1.001 (target: 1.0) - 0.1% error ✅
+Result: PASSED 
+  Variance ratio: 1.001 (target: 1.0) - 0.1% error 
 ```
 
 ## File Structure
@@ -46,12 +46,12 @@ preference-model-takehome/
 
 ## For Reviewers
 
-### Quick Review (5 min)
+### Quick Review 
 1. Read `SUBMISSION_SUMMARY.md` - understand the task
 2. Run `python variance_dropout_task.py` - see it work
 3. Check difficulty calibration in output
 
-### Deep Review (15 min)
+### Deep Review 
 1. Read `README.md` - full rationale
 2. Review task prompt in code
 3. Check grading logic
