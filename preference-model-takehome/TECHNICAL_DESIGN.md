@@ -2,6 +2,7 @@
 ## Variance-Stabilized Dropout: RL Task Implementation
 
 **Author:** Eva Paunova, AI Research Scientist 
+
 **Date:** November 1, 2025  
 
 
