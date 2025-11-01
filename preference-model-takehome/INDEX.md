@@ -27,6 +27,8 @@ python variance_dropout_task.py
 ### Supporting Documentation
 - **QUICKSTART.md** - How to run and integrate (5 min read)
 - **SUBMISSION_SUMMARY.md** - One-page overview (3 min read)
+- **TESTING_RESULTS.md** - Comprehensive test results and validation (10 min read)
+- **TECHNICAL_DESIGN.md** - Deep-dive technical documentation
 - **CHECKLIST.md** - Verification against requirements
 - **SUBMISSION_MESSAGE.md** - Email template for submission
 - **DEMO_SCRIPT.md** - Presentation guide if doing live demo
@@ -59,6 +61,7 @@ An RL training task where language models learn to:
 
 ##  Quick Stats
 
+- **Time spent:** ~4 hours
 - **Code:** ~300 lines (including tests, grader, docs)
 - **Dependencies:** numpy only
 - **Difficulty:** Calibrated for 10-40% pass rate
@@ -86,6 +89,7 @@ An RL training task where language models learn to:
 
 ---
 
+
 ##  Questions?
 
 Check:
@@ -96,5 +100,4 @@ Check:
 
 
 ---
-
 
