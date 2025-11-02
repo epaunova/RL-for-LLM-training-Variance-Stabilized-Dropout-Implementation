@@ -43,7 +43,8 @@ Quick reference for test results and validation status.
 
 ## Documentation
 
-- **Total:** 11 files (~68 KB)
+- **Total files:** 11
+- **Total size:** ~68 KB
 - **Core code:** 443 lines (well-commented)
 - **Test coverage:** Complete
 
