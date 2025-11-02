@@ -296,8 +296,7 @@ The task is calibrated for 10-40% success rate through:
 ### Expected Performance by Model Capability
 
 **Pass Rate Method:**  
-Based on empirical testings, the pass rate varies by model strength. For instance, weak models (e.g., GPT-3.5) typically achieve 5-10% success, medium models (e.g., GPT-4) 15-30%, and strong models (e.g., Claude Opus) 30-40%. This is confirmed through 15 actual runs on Claude Opus 4.1, yielding a 26.7% success rate (within the target 10-40% range), as detailed in VALIDATION_RESULTS.md. The task's difficulty stems from requiring precise mathematical reasoning, such as selecting the correct scaling formula among several plausible alternatives, with a clear performance gap between incorrect (e.g., 43% variance error) and correct implementations (e.g., 0.1% error).. Empirical validation confirms 26.7% success rate (within target range).
-
+Based on empirical testings, the pass rate varies by model strength. For instance, weak models (e.g., GPT-3.5) typically achieve 5-10% success, medium models (e.g., GPT-4) 15-30%, and strong models (e.g., Claude Opus) 30-40%. This is confirmed through 15 actual runs on Claude Opus 4.1, yielding a 26.7% success rate (within the target 10-40% range), as detailed in VALIDATION_RESULTS.md. The task's difficulty stems from requiring precise mathematical reasoning, such as selecting the correct scaling formula among several plausible alternatives, with a clear performance gap between incorrect (e.g., 43% variance error) and correct implementations (e.g., 0.1% error).
 - **GPT-3.5 / Weak models (0-10%):** 
   - Likely make random changes or copy buggy pattern
   - May not understand variance stabilization concept
