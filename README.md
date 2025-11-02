@@ -1,6 +1,7 @@
 # Variance-Stabilized Dropout: RL Task for ML Researcher Training
 
 Author: Eva Paunova, AI Research Scientist
+
 Date: October 31, 2025
 
 ## Overview
