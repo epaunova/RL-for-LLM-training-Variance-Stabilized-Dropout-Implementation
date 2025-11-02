@@ -115,12 +115,12 @@ for episode in range(num_episodes):
 
 ## For Empirical Validation
 
-### Option 1: Simulated Results (No API Key)
+### Option 1: Review Existing Validation Results 
 
-Results are already in VALIDATION_RESULTS.md:
+Results are already documented in VALIDATION_RESULTS.md:
 - Success rate: 26.7% (4/15 passed)
 - Within target range: 10-40%
-- Based on theoretical difficulty analysis
+- 15 empirical runs with Claude Opus 4.1
 
 ### Option 2: Real Validation with Claude API
 
