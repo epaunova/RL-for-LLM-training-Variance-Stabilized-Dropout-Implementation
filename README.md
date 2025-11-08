@@ -1,15 +1,9 @@
-# RL Task Submission: Variance-Stabilized Dropout Implementation
+# RL Variance-Stabilized Dropout Implementation
 
-**Candidate:** Eva Paunova, AI Research Scientist   
-**Date:** October 31, 2025  
-**Time Spent:** 4 hours breakdown:
-- Concept selection & research: 45 min
-- Task design & bug calibration: 1 hour
-- Implementation (code + tests): 1.5 hours
-- Validation & testing: 45 min
-- Documentation: 30 min
+**Author:** Eva Paunova, AI Research Scientist   
 
-## Task Overview
+
+## Overview
 
 This submission contains an RL task for ML researcher/engineer training that teaches models to:
 - Understand and implement techniques from research papers
